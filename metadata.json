@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix AI - Personal Fitness & Form Coach",
+  "description": "Real-time AI posture & form tracking, live repetition counting, biomechanical angle analysis, and voice-guided workout coaching.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
